@@ -2,7 +2,7 @@
 
 The **Online Course Template** empowers you easily create an online course or coaching business with our customizable yet simple all-in-one [**Wowchemy Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo).
 
-[Check out the latest demo](https://wowchemy.com/templates/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+[Check out the latest demo](https://hugo-online-course.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
 [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
