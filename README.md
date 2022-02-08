@@ -1,4 +1,4 @@
-# Wowchemy's Online Course Template for Hugo
+# [Hugo Theme for Creating Online Courses](https://github.com/wowchemy/starter-hugo-online-course)
 
 The **Online Course Template** empowers you easily create an online course or coaching business with our customizable yet simple all-in-one [**Wowchemy Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo).
 
